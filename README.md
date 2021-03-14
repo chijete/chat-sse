@@ -6,7 +6,15 @@ En el código puedes encontrar el chat. Trabaja con almacenamiento de datos en a
 EXPLICACIÓN
 
 index.php -> cliente
+
 server.php -> el servidor que procesa el Server-Sent Events
+
 sendMsg.php -> el servidor que envia los mensajes
+
 lastMsg-id.txt -> almacena el ID del último mensaje enviado, que sirve como referencia para server.php
+
 lastMsg-text.txt -> almacena el texto del último mensaje enviado.
+
+IGNORAR
+
+Los archivos README y LICENCE son generados por GitHub.
