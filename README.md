@@ -18,3 +18,7 @@ lastMsg-text.txt -> almacena el texto del último mensaje enviado.
 IGNORAR
 
 Los archivos README y LICENCE son generados por GitHub.
+
+MÁS INFORMACIÓN
+
+Puedes encontrar más información sobre esta tecnología en: https://developer.mozilla.org/es/docs/Web/API/Server-sent_events/Using_server-sent_events
